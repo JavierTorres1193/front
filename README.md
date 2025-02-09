@@ -48,7 +48,7 @@ Sigue estos pasos para instalar las dependencias y ejecutar el proyecto en tu en
    npm run dev
 
 4. Abrir el proyecto en el navegador!🎉🎉
-   Visita http://localhost:3000 para ver la aplicación en acción.
+   - Visita http://localhost:3000 para ver la aplicación en acción.
 
 ## 🛠️ Tecnologías Utilizadas:
 
