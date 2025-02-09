@@ -37,7 +37,7 @@ Sigue estos pasos para instalar las dependencias y ejecutar el proyecto en tu en
 1. **Clona el repositorio** (si no lo has hecho ya):
 
    ```bash
-   git clone https://github.com/JavierTorres1193/front.git
+   git clone https://github.com/JavierTorres1193/front-test.git
 
 2. Instala las dependencias:
    ```bash
